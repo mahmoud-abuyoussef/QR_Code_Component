@@ -30,22 +30,22 @@ body {
   height: 288px;
   border-radius: 10px;
 }
-p {
-  padding: 0 16px;
-  text-align: center;
-}
 .improve {
+  padding: 0 16px;
   margin-top: 20px;
   margin-bottom: 16px;
   font-weight: 700;
   font-size: 22px;
   line-height: 120%;
+  text-align: center;
   color: var(--slate-900);
 }
 .scan {
+  padding: 0 16px;
   font-weight: 400;
   font-size: 15px;
   line-height: 140%;
   letter-spacing: 0.2px;
+  text-align: center;
   color: var(--slate-500);
 }
